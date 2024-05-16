@@ -1,0 +1,1762 @@
+<style>
+.desktop-1 {
+    background: #ffffff;
+     width: 1440px;
+     height: 1024px;
+     position: relative;
+     overflow: hidden;
+    }
+
+ .frame-393 {
+    width: 1408px;
+     height: 880px;
+     position: absolute;
+     left: 16px;
+    top: 144px;
+    }
+
+ .group-776 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .frame-391 {
+    display: flex;
+     flex-direction: row;
+     gap: 8px;
+     align-items: flex-start;
+     justify-content: flex-start;
+     width: 413px;
+     position: absolute;
+     left: 0px;
+    top: 19px;
+    }
+
+ .group-771 {
+    flex-shrink: 0;
+     width: 266.82px;
+     height: 94.33px;
+     position: static;
+    }
+
+ .rectangle-106 {
+    background: var(--grey, linear-gradient(to left, rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.20)), linear-gradient(to left, #999999, #999999));
+     border-radius: 6px;
+     opacity: 0.029999999329447746;
+     width: 266.82px;
+     height: 94.33px;
+     position: absolute;
+     left: 0px;
+    top: 0px;
+    }
+
+ .group-768 {
+    width: 233.94px;
+     height: 67.38px;
+     position: static;
+    }
+
+ .group-767 {
+    width: 87.25px;
+     height: 53.9px;
+     position: static;
+    }
+
+ .rako {
+    color: #000000;
+     text-align: left;
+     font: 400 italic 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 106.22px;
+    top: 13.48px;
+     width: 37.94px;
+     height: 20.21px;
+    }
+
+ .family-lawyer {
+    color: var(--grey, linear-gradient(to left, rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.20)), linear-gradient(to left, #999999, #999999));
+     text-align: left;
+     font: 400 italic 10px 'Poppins', sans-serif;
+     opacity: 0.5;
+     position: absolute;
+     left: 106.22px;
+    top: 33.69px;
+     width: 87.25px;
+     height: 16.85px;
+    }
+
+ .tax-lawyer {
+    color: var(--grey, linear-gradient(to left, rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.20)), linear-gradient(to left, #999999, #999999));
+     text-align: left;
+     font: 400 italic 10px 'Poppins', sans-serif;
+     opacity: 0.5;
+     position: absolute;
+     left: 106.22px;
+    top: 50.54px;
+     width: 67.02px;
+     height: 16.85px;
+    }
+
+ .group-766 {
+    width: 40.47px;
+     height: 67.38px;
+     position: static;
+    }
+
+ ._4-7 {
+    text-align: right;
+     font: 400 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 208.65px;
+    top: 13.48px;
+     width: 40.47px;
+     height: 20.21px;
+    }
+
+._4-7-span {
+    
+            color: var(--black, #202020);
+    
+            font: 400 12px 'Poppins', sans-serif;
+    
+            
+            
+        }
+
+._4-7-span2 {
+    
+            color: #000000;
+    
+            font: 400 12px 'Poppins', sans-serif;
+    
+            
+            
+        }
+
+ .free {
+    color: #75b1ce;
+     text-align: left;
+     font: 600 italic 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 208.65px;
+    top: 60.64px;
+     width: 34.14px;
+     height: 20.21px;
+    }
+
+ .rectangle-101 {
+    background: linear-gradient(to left, #5f0e0e, #5f0e0e);
+     border-radius: 6px;
+     width: 75.87px;
+     height: 67.38px;
+     position: absolute;
+     left: 15.18px;
+    top: 13.48px;
+    }
+
+ .group-772 {
+    flex-shrink: 0;
+     width: 266.82px;
+     height: 94.33px;
+     position: static;
+    }
+
+ .rectangle-1062 {
+    background: var(--grey, linear-gradient(to left, rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.20)), linear-gradient(to left, #999999, #999999));
+     border-radius: 6px;
+     opacity: 0.029999999329447746;
+     width: 266.82px;
+     height: 94.33px;
+     position: absolute;
+     left: 274.82px;
+    top: 0px;
+    }
+
+ .rectangle-107 {
+    background: linear-gradient(to left, #5f0e0e, #5f0e0e);
+     border-radius: 6px;
+     width: 75.87px;
+     height: 67.38px;
+     position: absolute;
+     left: 289.99px;
+    top: 13.48px;
+    }
+
+ .group-7682 {
+    width: 142.89px;
+     height: 67.38px;
+     position: static;
+    }
+
+ .group-7672 {
+    width: 98.63px;
+     height: 53.9px;
+     position: static;
+    }
+
+ .surendra {
+    color: #000000;
+     text-align: left;
+     font: 400 italic 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 381.04px;
+    top: 13.48px;
+     width: 70.81px;
+     height: 20.21px;
+    }
+
+ .criminal-lawyer {
+    color: var(--grey, linear-gradient(to left, rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.20)), linear-gradient(to left, #999999, #999999));
+     text-align: left;
+     font: 400 italic 10px 'Poppins', sans-serif;
+     opacity: 0.5;
+     position: absolute;
+     left: 381.04px;
+    top: 33.69px;
+     width: 98.63px;
+     height: 16.85px;
+    }
+
+ .tax-lawyer2 {
+    color: var(--grey, linear-gradient(to left, rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.20)), linear-gradient(to left, #999999, #999999));
+     text-align: left;
+     font: 400 italic 10px 'Poppins', sans-serif;
+     opacity: 0.5;
+     position: absolute;
+     left: 381.04px;
+    top: 50.54px;
+     width: 67.02px;
+     height: 16.85px;
+    }
+
+ .group-7662 {
+    width: 41.73px;
+     height: 67.38px;
+     position: static;
+    }
+
+ ._4-8 {
+    text-align: right;
+     font: 400 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 482.21px;
+    top: 13.48px;
+     width: 41.73px;
+     height: 20.21px;
+    }
+
+._4-8-span {
+    
+            color: var(--black, #202020);
+    
+            font: 400 12px 'Poppins', sans-serif;
+    
+            
+            
+        }
+
+._4-8-span2 {
+    
+            color: #000000;
+    
+            font: 400 12px 'Poppins', sans-serif;
+    
+            
+            
+        }
+
+ .free2 {
+    color: #75b1ce;
+     text-align: left;
+     font: 600 italic 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 483.47px;
+    top: 60.64px;
+     width: 34.14px;
+     height: 20.21px;
+    }
+
+ .group-773 {
+    flex-shrink: 0;
+     width: 266.82px;
+     height: 94.33px;
+     position: static;
+    }
+
+ .rectangle-1063 {
+    background: var(--grey, linear-gradient(to left, rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.20)), linear-gradient(to left, #999999, #999999));
+     border-radius: 6px;
+     opacity: 0.029999999329447746;
+     width: 266.82px;
+     height: 94.33px;
+     position: absolute;
+     left: 549.64px;
+    top: 0px;
+    }
+
+ .rekha {
+    color: #000000;
+     text-align: left;
+     font: 400 italic 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 655.86px;
+    top: 13.48px;
+     width: 46.79px;
+     height: 20.21px;
+    }
+
+ .criminal-lawyer2 {
+    color: var(--grey, linear-gradient(to left, rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.20)), linear-gradient(to left, #999999, #999999));
+     text-align: left;
+     font: 400 italic 10px 'Poppins', sans-serif;
+     opacity: 0.5;
+     position: absolute;
+     left: 655.86px;
+    top: 33.69px;
+     width: 98.63px;
+     height: 16.85px;
+    }
+
+ .civil-lawyer {
+    color: var(--grey, linear-gradient(to left, rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.20)), linear-gradient(to left, #999999, #999999));
+     text-align: left;
+     font: 400 italic 10px 'Poppins', sans-serif;
+     opacity: 0.5;
+     position: absolute;
+     left: 655.86px;
+    top: 50.54px;
+     width: 72.08px;
+     height: 16.85px;
+    }
+
+ ._3-5 {
+    text-align: right;
+     font: 400 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 757.02px;
+    top: 13.48px;
+     width: 41.73px;
+     height: 20.21px;
+    }
+
+._3-5-span {
+    
+            color: var(--black, #202020);
+    
+            font: 400 12px 'Poppins', sans-serif;
+    
+            
+            
+        }
+
+._3-5-span2 {
+    
+            color: #000000;
+    
+            font: 400 12px 'Poppins', sans-serif;
+    
+            
+            
+        }
+
+ .free3 {
+    color: #75b1ce;
+     text-align: left;
+     font: 600 italic 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 758.29px;
+    top: 60.64px;
+     width: 34.14px;
+     height: 20.21px;
+    }
+
+ .rectangle-110 {
+    background: linear-gradient(to left, #5f0e0e, #5f0e0e);
+     border-radius: 6px;
+     width: 75.87px;
+     height: 67.38px;
+     position: absolute;
+     left: 564.81px;
+    top: 13.48px;
+    }
+
+ .group-774 {
+    flex-shrink: 0;
+     width: 266.82px;
+     height: 94.33px;
+     position: static;
+    }
+
+ .rectangle-1064 {
+    background: var(--grey, linear-gradient(to left, rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.20)), linear-gradient(to left, #999999, #999999));
+     border-radius: 6px;
+     opacity: 0.029999999329447746;
+     width: 266.82px;
+     height: 94.33px;
+     position: absolute;
+     left: 824.46px;
+    top: 0px;
+    }
+
+ .group-7673 {
+    width: 83.46px;
+     height: 53.9px;
+     position: static;
+    }
+
+ .roopesh {
+    color: #000000;
+     text-align: left;
+     font: 400 italic 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 930.68px;
+    top: 13.48px;
+     width: 67.02px;
+     height: 20.21px;
+    }
+
+ .tax-lawyer3 {
+    color: var(--grey, linear-gradient(to left, rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.20)), linear-gradient(to left, #999999, #999999));
+     text-align: left;
+     font: 400 italic 10px 'Poppins', sans-serif;
+     opacity: 0.5;
+     position: absolute;
+     left: 930.68px;
+    top: 33.69px;
+     width: 67.02px;
+     height: 16.85px;
+    }
+
+ .cyber-lawyer {
+    color: var(--grey, linear-gradient(to left, rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.20)), linear-gradient(to left, #999999, #999999));
+     text-align: left;
+     font: 400 italic 10px 'Poppins', sans-serif;
+     opacity: 0.5;
+     position: absolute;
+     left: 930.68px;
+    top: 50.54px;
+     width: 83.46px;
+     height: 16.85px;
+    }
+
+ ._3-52 {
+    text-align: right;
+     font: 400 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 1031.84px;
+    top: 13.48px;
+     width: 41.73px;
+     height: 20.21px;
+    }
+
+._3-52-span {
+    
+            color: var(--black, #202020);
+    
+            font: 400 12px 'Poppins', sans-serif;
+    
+            
+            
+        }
+
+._3-52-span2 {
+    
+            color: #000000;
+    
+            font: 400 12px 'Poppins', sans-serif;
+    
+            
+            
+        }
+
+ .free4 {
+    color: #75b1ce;
+     text-align: left;
+     font: 600 italic 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 1033.11px;
+    top: 60.64px;
+     width: 34.14px;
+     height: 20.21px;
+    }
+
+ .rectangle-111 {
+    background: linear-gradient(to left, #5f0e0e, #5f0e0e);
+     border-radius: 6px;
+     width: 75.87px;
+     height: 67.38px;
+     position: absolute;
+     left: 839.63px;
+    top: 13.48px;
+    }
+
+ .group-775 {
+    flex-shrink: 0;
+     width: 266.82px;
+     height: 94.33px;
+     position: static;
+    }
+
+ .rectangle-1065 {
+    background: var(--grey, linear-gradient(to left, rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.20)), linear-gradient(to left, #999999, #999999));
+     border-radius: 6px;
+     opacity: 0.029999999329447746;
+     width: 266.82px;
+     height: 94.33px;
+     position: absolute;
+     left: 1099.28px;
+    top: 0px;
+    }
+
+ .rectangle-112 {
+    background: linear-gradient(to left, #5f0e0e, #5f0e0e);
+     border-radius: 6px;
+     width: 75.87px;
+     height: 67.38px;
+     position: absolute;
+     left: 1114.45px;
+    top: 13.48px;
+    }
+
+ .roopesh2 {
+    color: #000000;
+     text-align: left;
+     font: 400 italic 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 1205.5px;
+    top: 13.48px;
+     width: 67.02px;
+     height: 20.21px;
+    }
+
+ .tax-lawyer4 {
+    color: var(--grey, linear-gradient(to left, rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.20)), linear-gradient(to left, #999999, #999999));
+     text-align: left;
+     font: 400 italic 10px 'Poppins', sans-serif;
+     opacity: 0.5;
+     position: absolute;
+     left: 1205.5px;
+    top: 33.69px;
+     width: 67.02px;
+     height: 16.85px;
+    }
+
+ .cyber-lawyer2 {
+    color: var(--grey, linear-gradient(to left, rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.20)), linear-gradient(to left, #999999, #999999));
+     text-align: left;
+     font: 400 italic 10px 'Poppins', sans-serif;
+     opacity: 0.5;
+     position: absolute;
+     left: 1205.5px;
+    top: 50.54px;
+     width: 83.46px;
+     height: 16.85px;
+    }
+
+ ._3-53 {
+    text-align: right;
+     font: 400 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 1306.66px;
+    top: 13.48px;
+     width: 41.73px;
+     height: 20.21px;
+    }
+
+._3-53-span {
+    
+            color: var(--black, #202020);
+    
+            font: 400 12px 'Poppins', sans-serif;
+    
+            
+            
+        }
+
+._3-53-span2 {
+    
+            color: #000000;
+    
+            font: 400 12px 'Poppins', sans-serif;
+    
+            
+            
+        }
+
+ .free5 {
+    color: #75b1ce;
+     text-align: left;
+     font: 600 italic 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 1307.93px;
+    top: 60.64px;
+     width: 34.14px;
+     height: 20.21px;
+    }
+
+ .free-consultation {
+    color: #000000;
+     text-align: left;
+     font: 500 16px 'Poppins', sans-serif;
+     position: absolute;
+     left: 0px;
+    top: -21px;
+     width: 176.82px;
+    }
+
+ .view-all {
+    color: #75b1ce;
+     text-align: left;
+     font: 400 13px 'Poppins', sans-serif;
+     position: absolute;
+     left: 1328px;
+    top: -24px;
+     width: 63.15px;
+    }
+
+ .group-777 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .frame-14 {
+    display: flex;
+     flex-direction: row;
+     gap: 8px;
+     align-items: flex-start;
+     justify-content: flex-start;
+     width: 1552px;
+     height: 80.01px;
+     position: absolute;
+     left: 15px;
+    top: 231.99px;
+    }
+
+ .group-113 {
+    flex-shrink: 0;
+     width: 117px;
+     height: 67px;
+     position: static;
+    }
+
+ .rectangle-117 {
+    background: var(--lightblue, #f6fafc);
+     border-radius: 5px;
+     width: 117px;
+     height: 67px;
+     position: absolute;
+     left: 0px;
+    top: 0px;
+     box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.25);
+    }
+
+ .divorce-lawyers {
+    color: #75b1ce;
+     text-align: center;
+     font: 400 10px 'Poppins', sans-serif;
+     position: absolute;
+     left: 0px;
+    top: 19px;
+     width: 117px;
+     height: 30px;
+    }
+
+ .group-114 {
+    flex-shrink: 0;
+     width: 117px;
+     height: 67px;
+     position: static;
+    }
+
+ .rectangle-118 {
+    background: var(--lightblue, #f6fafc);
+     border-radius: 5px;
+     width: 117px;
+     height: 67px;
+     position: absolute;
+     left: 125px;
+    top: 0px;
+     box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.25);
+    }
+
+ .family-lawyers {
+    color: #75b1ce;
+     text-align: center;
+     font: 400 10px 'Poppins', sans-serif;
+     position: absolute;
+     left: 125px;
+    top: 19px;
+     width: 117px;
+     height: 30px;
+    }
+
+ .group-115 {
+    flex-shrink: 0;
+     width: 117px;
+     height: 67px;
+     position: static;
+    }
+
+ .rectangle-119 {
+    background: var(--lightblue, #f6fafc);
+     border-radius: 5px;
+     width: 117px;
+     height: 67px;
+     position: absolute;
+     left: 249.99px;
+    top: 0px;
+     box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.25);
+    }
+
+ .criminal-lawyers {
+    color: #75b1ce;
+     text-align: center;
+     font: 400 10px 'Poppins', sans-serif;
+     position: absolute;
+     left: 249.99px;
+    top: 19px;
+     width: 117px;
+     height: 30px;
+    }
+
+ .group-116 {
+    flex-shrink: 0;
+     width: 117px;
+     height: 67px;
+     position: static;
+    }
+
+ .rectangle-120 {
+    background: var(--lightblue, #f6fafc);
+     border-radius: 5px;
+     width: 117px;
+     height: 67px;
+     position: absolute;
+     left: 374.99px;
+    top: 0px;
+     box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.25);
+    }
+
+ .tax-lawyers {
+    color: #75b1ce;
+     text-align: center;
+     font: 400 10px 'Poppins', sans-serif;
+     position: absolute;
+     left: 374.99px;
+    top: 19px;
+     width: 117px;
+     height: 30px;
+    }
+
+ .group-117 {
+    flex-shrink: 0;
+     width: 117px;
+     height: 67px;
+     position: static;
+    }
+
+ .rectangle-121 {
+    background: var(--lightblue, #f6fafc);
+     border-radius: 5px;
+     width: 117px;
+     height: 67px;
+     position: absolute;
+     left: 499.98px;
+    top: 0px;
+     box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.25);
+    }
+
+ .labour-lawyers {
+    color: #75b1ce;
+     text-align: center;
+     font: 400 10px 'Poppins', sans-serif;
+     position: absolute;
+     left: 499.98px;
+    top: 19px;
+     width: 117px;
+     height: 30px;
+    }
+
+ .group-118 {
+    flex-shrink: 0;
+     width: 117px;
+     height: 67px;
+     position: static;
+    }
+
+ .rectangle-122 {
+    background: var(--lightblue, #f6fafc);
+     border-radius: 5px;
+     width: 117px;
+     height: 67px;
+     position: absolute;
+     left: 624.98px;
+    top: 0px;
+     box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.25);
+    }
+
+ .civil-lawyers {
+    color: #75b1ce;
+     text-align: center;
+     font: 400 10px 'Poppins', sans-serif;
+     position: absolute;
+     left: 624.98px;
+    top: 19px;
+     width: 117px;
+     height: 30px;
+    }
+
+ .group-119 {
+    flex-shrink: 0;
+     width: 117px;
+     height: 67px;
+     position: static;
+    }
+
+ .rectangle-123 {
+    background: var(--lightblue, #f6fafc);
+     border-radius: 5px;
+     width: 117px;
+     height: 67px;
+     position: absolute;
+     left: 749.98px;
+    top: 0px;
+     box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.25);
+    }
+
+ .military-lawyers {
+    color: #75b1ce;
+     text-align: center;
+     font: 400 10px 'Poppins', sans-serif;
+     position: absolute;
+     left: 749.98px;
+    top: 19px;
+     width: 117px;
+     height: 30px;
+    }
+
+ .group-120 {
+    flex-shrink: 0;
+     width: 117px;
+     height: 67px;
+     position: static;
+    }
+
+ .rectangle-124 {
+    background: var(--lightblue, #f6fafc);
+     border-radius: 5px;
+     width: 117px;
+     height: 67px;
+     position: absolute;
+     left: 874.97px;
+    top: 0px;
+     box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.25);
+    }
+
+ .cyber-lawyers {
+    color: #75b1ce;
+     text-align: center;
+     font: 400 10px 'Poppins', sans-serif;
+     position: absolute;
+     left: 874.97px;
+    top: 19px;
+     width: 117px;
+     height: 30px;
+    }
+
+ .group-121 {
+    flex-shrink: 0;
+     width: 117px;
+     height: 67px;
+     position: static;
+    }
+
+ .rectangle-126 {
+    background: var(--lightblue, #f6fafc);
+     border-radius: 5px;
+     width: 117px;
+     height: 67px;
+     position: absolute;
+     left: 999.97px;
+    top: 0px;
+     box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.25);
+    }
+
+ .contract-lawyers {
+    color: #75b1ce;
+     text-align: center;
+     font: 400 10px 'Poppins', sans-serif;
+     position: absolute;
+     left: 999.97px;
+    top: 19px;
+     width: 117px;
+     height: 30px;
+    }
+
+ .group-122 {
+    flex-shrink: 0;
+     width: 117px;
+     height: 67px;
+     position: static;
+    }
+
+ .rectangle-127 {
+    background: var(--lightblue, #f6fafc);
+     border-radius: 5px;
+     width: 117px;
+     height: 67px;
+     position: absolute;
+     left: 1124.96px;
+    top: 0px;
+     box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.25);
+    }
+
+ .securities-lawyers {
+    color: #75b1ce;
+     text-align: center;
+     font: 400 10px 'Poppins', sans-serif;
+     position: absolute;
+     left: 1124.96px;
+    top: 19px;
+     width: 117px;
+     height: 30px;
+    }
+
+ .group-123 {
+    flex-shrink: 0;
+     width: 117px;
+     height: 67px;
+     position: static;
+    }
+
+ .rectangle-116 {
+    background: var(--lightblue, #f6fafc);
+     border-radius: 5px;
+     width: 117px;
+     height: 67px;
+     position: absolute;
+     left: 1249.96px;
+    top: 0px;
+     box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.25);
+    }
+
+ .categories {
+    color: #000000;
+     text-align: center;
+     font: 400 10px 'Poppins', sans-serif;
+     position: absolute;
+     left: 1260.44px;
+    top: 6px;
+     width: 97.79px;
+     height: 15px;
+    }
+
+ .group-111 {
+    width: 41.91px;
+     height: 24px;
+     position: static;
+    }
+
+ .rectangle-1202 {
+    background: var(--mediumblue, #75b1ce);
+     width: 17.34px;
+     height: 9.93px;
+     position: absolute;
+     left: 1288.38px;
+    top: 25px;
+    }
+
+ .rectangle-1212 {
+    background: var(--lightblue-1, #d9f3ff);
+     width: 17.34px;
+     height: 9.93px;
+     position: absolute;
+     left: 1312.94px;
+    top: 25px;
+    }
+
+ .rectangle-1222 {
+    background: var(--lightblue-1, #d9f3ff);
+     width: 17.34px;
+     height: 9.93px;
+     position: absolute;
+     left: 1288.38px;
+    top: 39.07px;
+    }
+
+ .rectangle-1232 {
+    background: var(--mediumblue, #75b1ce);
+     width: 17.34px;
+     height: 9.93px;
+     position: absolute;
+     left: 1312.94px;
+    top: 39.07px;
+    }
+
+ .view-all2 {
+    color: #75b1ce;
+     text-align: left;
+     font: 400 13px 'Poppins', sans-serif;
+     position: absolute;
+     left: 1330.41px;
+    top: 189px;
+     width: 236.59px;
+     height: 23.88px;
+    }
+
+ .group-624 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .rectangle-99 {
+    background: #244065;
+     border-radius: 26px;
+     width: 154px;
+     height: 34px;
+     position: absolute;
+     left: 628px;
+    top: 143px;
+    }
+
+ .all-lawyers {
+    color: var(--white, #ffffff);
+     text-align: center;
+     font: 500 14px 'Poppins', sans-serif;
+     position: absolute;
+     left: 667px;
+    top: 150px;
+    }
+
+ .group-629 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .group-476 {
+    width: 1323px;
+     height: 178.97px;
+     position: static;
+    }
+
+ .group-472 {
+    width: 299.25px;
+     height: 175.25px;
+     position: static;
+    }
+
+ .rectangle-92 {
+    background: linear-gradient(to left, rgba(12, 37, 63, 0.60), rgba(12, 37, 63, 0.60));
+     border-radius: 6px;
+     width: 299.25px;
+     height: 175.25px;
+     position: absolute;
+     left: 51px;
+    top: 810px;
+    }
+
+ .group-136 {
+    width: 233.18px;
+     height: 73.26px;
+     position: static;
+    }
+
+ .search {
+    color: var(--lightblue, #f6fafc);
+     text-align: left;
+     font: 600 14px 'Poppins', sans-serif;
+     position: absolute;
+     left: 81.42px;
+    top: 849.75px;
+     width: 97.16px;
+     height: 30.17px;
+    }
+
+ .search-for-lawyer-in-required-area-of-practice {
+    color: var(--lightblue, #f6fafc);
+     text-align: left;
+     font: 400 10px 'Poppins', sans-serif;
+     position: absolute;
+     left: 81.42px;
+    top: 879.91px;
+     width: 233.18px;
+     height: 43.09px;
+    }
+
+ .group-473 {
+    width: 299.25px;
+     height: 175.25px;
+     position: static;
+    }
+
+ .rectangle-128 {
+    background: linear-gradient(to left, rgba(12, 37, 63, 0.60), rgba(12, 37, 63, 0.60));
+     border-radius: 6px;
+     width: 299.25px;
+     height: 175.25px;
+     position: absolute;
+     left: 391.74px;
+    top: 813.73px;
+    }
+
+ .group-137 {
+    width: 233.18px;
+     height: 51.71px;
+     position: static;
+    }
+
+ .know-more {
+    color: var(--lightblue, #f6fafc);
+     text-align: left;
+     font: 600 14px 'Poppins', sans-serif;
+     position: absolute;
+     left: 418.95px;
+    top: 853.95px;
+     width: 157.4px;
+     height: 30.17px;
+    }
+
+ .know-more-about-the-lawyer {
+    color: var(--lightblue, #f6fafc);
+     text-align: left;
+     font: 400 10px 'Poppins', sans-serif;
+     position: absolute;
+     left: 418.95px;
+    top: 884.11px;
+     width: 233.18px;
+     height: 21.55px;
+    }
+
+ .group-474 {
+    width: 299.25px;
+     height: 175.25px;
+     position: static;
+    }
+
+ .rectangle-130 {
+    background: linear-gradient(to left, rgba(12, 37, 63, 0.60), rgba(12, 37, 63, 0.60));
+     border-radius: 6px;
+     width: 299.25px;
+     height: 175.25px;
+     position: absolute;
+     left: 735.53px;
+    top: 813.73px;
+    }
+
+ .group-475 {
+    width: 299.25px;
+     height: 175.25px;
+     position: static;
+    }
+
+ .hands-of-a-businessman-using-laptop-and-card-on-the-internet {
+    background: linear-gradient(to left, rgba(12, 37, 63, 0.60), rgba(12, 37, 63, 0.60));
+     border-radius: 6px;
+     width: 299.25px;
+     height: 175.25px;
+     position: absolute;
+     left: 1074.75px;
+    top: 813.73px;
+    }
+
+ .rectangle-129 {
+    border-radius: 6px;
+     width: 299.25px;
+     height: 175.25px;
+     position: absolute;
+     left: 1074.75px;
+    top: 813.73px;
+    }
+
+ .group-139 {
+    width: 233.18px;
+     height: 73.26px;
+     position: static;
+    }
+
+ .payment {
+    color: var(--lightblue, #f6fafc);
+     text-align: left;
+     font: 600 14px 'Poppins', sans-serif;
+     position: absolute;
+     left: 1111px;
+    top: 880px;
+     width: 126.31px;
+     height: 30.17px;
+    }
+
+ .the-payment-mode-of-user-is-safe-and-secure {
+    color: var(--lightblue, #f6fafc);
+     text-align: left;
+     font: 400 10px 'Poppins', sans-serif;
+     position: absolute;
+     left: 1111px;
+    top: 910.17px;
+     width: 233.18px;
+     height: 43.09px;
+    }
+
+ .group-140 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .select-date-time {
+    color: var(--lightblue, #f6fafc);
+     text-align: left;
+     font: 600 14px/91.5% 'Poppins', sans-serif;
+     position: absolute;
+     left: 776px;
+    top: 857px;
+     width: 152px;
+     height: 15px;
+    }
+
+ .select-the-date-and-time-to-reserve-a-spot-for-consultation {
+    color: var(--lightblue, #f6fafc);
+     text-align: left;
+     font: 400 10px 'Poppins', sans-serif;
+     position: absolute;
+     left: 788px;
+    top: 894px;
+     width: 152px;
+     height: 52px;
+    }
+
+ .group-628 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .steps-to-book-an-appointment {
+    color: #000000;
+     text-align: left;
+     font: 500 16px 'Poppins', sans-serif;
+     position: relative;
+     left: 531px;
+    top: 749px;
+     width: 310.5px;
+    }
+
+ ._4-simple-steps-to-book-an-appointment-with-the-lawyer {
+    color: #000000;
+     text-align: left;
+     font: 400 10px 'Poppins', sans-serif;
+     opacity: 0.5;
+     position: relative;
+     left: 531px;
+    top: 773px;
+     width: 352.15px;
+    }
+
+ .group-623 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .rectangle-91 {
+    background: #0c253f;
+     border-radius: 6px;
+     width: 510.94px;
+     height: 176px;
+     position: absolute;
+     left: 52px;
+    top: 542px;
+    }
+
+ .chat-with-experts {
+    color: var(--lightblue, #f6fafc);
+     text-align: left;
+     font: 500 16px 'Poppins', sans-serif;
+     position: absolute;
+     left: 92.37px;
+    top: 547px;
+     width: 220.23px;
+    }
+
+ .access-to-expertise {
+    color: var(--lightblue, #f6fafc);
+     text-align: left;
+     font: 400 12px 'Poppins', sans-serif;
+     opacity: 0.6000000238418579;
+     position: absolute;
+     left: 109.55px;
+    top: 572px;
+     width: 179.62px;
+    }
+
+ .convenient {
+    color: var(--lightblue, #f6fafc);
+     text-align: left;
+     font: 400 12px 'Poppins', sans-serif;
+     opacity: 0.6000000238418579;
+     position: absolute;
+     left: 109.55px;
+    top: 593px;
+     width: 107.77px;
+    }
+
+ .time-saving {
+    color: var(--lightblue, #f6fafc);
+     text-align: left;
+     font: 400 12px 'Poppins', sans-serif;
+     opacity: 0.6000000238418579;
+     position: absolute;
+     left: 109.55px;
+    top: 614px;
+     width: 120.27px;
+    }
+
+ .confidential {
+    color: var(--lightblue, #f6fafc);
+     text-align: left;
+     font: 400 12px 'Poppins', sans-serif;
+     opacity: 0.6000000238418579;
+     position: absolute;
+     left: 109.55px;
+    top: 635px;
+     width: 115.58px;
+    }
+
+ .free-of-cost {
+    color: var(--lightblue, #f6fafc);
+     text-align: left;
+     font: 400 12px 'Poppins', sans-serif;
+     opacity: 0.6000000238418579;
+     position: absolute;
+     left: 109.55px;
+    top: 656px;
+     width: 109.34px;
+    }
+
+ .group-124 {
+    width: 145.26px;
+     height: 26px;
+     position: static;
+    }
+
+ .rectangle-992 {
+    background: #ffffff;
+     border-radius: 26px;
+     width: 145.26px;
+     height: 26px;
+     position: absolute;
+     left: 92.37px;
+    top: 678px;
+    }
+
+ .chat-now {
+    color: #000000;
+     text-align: left;
+     font: 500 10px 'Poppins', sans-serif;
+     position: absolute;
+     left: 126.73px;
+    top: 684px;
+     width: 76.53px;
+    }
+
+ .ellipse-36 {
+    background: #ffffff;
+     border-radius: 50%;
+     width: 7.81px;
+     height: 5px;
+     position: absolute;
+     left: 95.49px;
+    top: 580px;
+    }
+
+ .ellipse-37 {
+    background: #ffffff;
+     border-radius: 50%;
+     width: 7.81px;
+     height: 5px;
+     position: absolute;
+     left: 95.49px;
+    top: 601px;
+    }
+
+ .ellipse-38 {
+    background: #ffffff;
+     border-radius: 50%;
+     width: 7.81px;
+     height: 5px;
+     position: absolute;
+     left: 95.49px;
+    top: 622px;
+    }
+
+ .ellipse-39 {
+    background: #ffffff;
+     border-radius: 50%;
+     width: 7.81px;
+     height: 5px;
+     position: absolute;
+     left: 95.49px;
+    top: 643px;
+    }
+
+ .ellipse-40 {
+    background: #ffffff;
+     border-radius: 50%;
+     width: 7.81px;
+     height: 5px;
+     position: absolute;
+     left: 95.49px;
+    top: 664px;
+    }
+
+ .serious-handsome-young-businessman-adjusting-glasses-and-holding-folder {
+    width: 380.91px;
+     height: 257px;
+     position: absolute;
+     left: 265px;
+    top: 461px;
+    }
+
+ .group-826 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .who-you-can-follow {
+    color: #10375c;
+     text-align: left;
+     font: 500 14px 'Poppins', sans-serif;
+     position: absolute;
+     left: 709px;
+    top: 506px;
+     width: 163.09px;
+    }
+
+ .chief-justice-esiri {
+    color: #10375c;
+     text-align: left;
+     font: 400 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 764.55px;
+    top: 564px;
+     width: 119.36px;
+    }
+
+ .sylas-timothy {
+    color: #10375c;
+     text-align: left;
+     font: 400 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 764.55px;
+    top: 638px;
+     width: 98.09px;
+    }
+
+ .judge {
+    color: #10375c;
+     text-align: left;
+     font: 300 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 764.55px;
+    top: 583px;
+     width: 44.91px;
+    }
+
+ .lawyer {
+    color: #10375c;
+     text-align: left;
+     font: 300 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 764.55px;
+    top: 657px;
+     width: 49.64px;
+    }
+
+ .appeal-court-yaba {
+    color: #10375c;
+     text-align: left;
+     font: 200 10px 'Poppins', sans-serif;
+     position: absolute;
+     left: 764.55px;
+    top: 602px;
+     width: 108.73px;
+    }
+
+ .syl-legal-house {
+    color: #10375c;
+     text-align: left;
+     font: 200 10px 'Poppins', sans-serif;
+     position: absolute;
+     left: 764.55px;
+    top: 676px;
+     width: 86.27px;
+    }
+
+ .rectangle-113 {
+    border-style: solid;
+     border-color: #0f69c9;
+     border-width: 1px;
+     width: 95.73px;
+     height: 33px;
+     position: absolute;
+     left: 918.18px;
+    top: 576px;
+    }
+
+ .rectangle-114 {
+    border-style: solid;
+     border-color: #0f69c9;
+     border-width: 1px;
+     width: 95.73px;
+     height: 33px;
+     position: absolute;
+     left: 918.18px;
+    top: 650px;
+    }
+
+ .connect {
+    color: #0f69c9;
+     text-align: left;
+     font: 500 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 935.91px;
+    top: 583px;
+     width: 61.45px;
+    }
+
+ .connect2 {
+    color: #0f69c9;
+     text-align: left;
+     font: 500 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 935.91px;
+    top: 657px;
+     width: 61.45px;
+    }
+
+ .ellipse-12 {
+    border-radius: 50%;
+     width: 40.18px;
+     height: 34px;
+     position: absolute;
+     left: 707px;
+    top: 567px;
+    }
+
+ .ellipse-13 {
+    border-radius: 50%;
+     width: 40.18px;
+     height: 34px;
+     position: absolute;
+     left: 707px;
+    top: 641px;
+    }
+
+ .group-827 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .dr-mrs-stella-abu {
+    color: #10375c;
+     text-align: left;
+     font: 400 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 1124.55px;
+    top: 550px;
+     width: 119.36px;
+    }
+
+ .amaka-donald {
+    color: #10375c;
+     text-align: left;
+     font: 400 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 1124.55px;
+    top: 632px;
+     width: 106.36px;
+    }
+
+ .judge2 {
+    color: #10375c;
+     text-align: left;
+     font: 300 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 1124.55px;
+    top: 569px;
+     width: 44.91px;
+    }
+
+ .attorney {
+    color: #10375c;
+     text-align: left;
+     font: 300 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 1124.55px;
+    top: 651px;
+     width: 60.27px;
+    }
+
+ .appeal-court-yaba2 {
+    color: #10375c;
+     text-align: left;
+     font: 200 10px 'Poppins', sans-serif;
+     position: absolute;
+     left: 1124.55px;
+    top: 588px;
+     width: 108.73px;
+    }
+
+ .supreme-court {
+    color: #10375c;
+     text-align: left;
+     font: 200 10px 'Poppins', sans-serif;
+     position: absolute;
+     left: 1124.55px;
+    top: 670px;
+     width: 87.45px;
+    }
+
+ .rectangle-115 {
+    border-style: solid;
+     border-color: #0f69c9;
+     border-width: 1px;
+     width: 95.73px;
+     height: 33px;
+     position: absolute;
+     left: 1278.18px;
+    top: 562px;
+    }
+
+ .rectangle-1162 {
+    border-style: solid;
+     border-color: #0f69c9;
+     border-width: 1px;
+     width: 95.73px;
+     height: 33px;
+     position: absolute;
+     left: 1278.18px;
+    top: 644px;
+    }
+
+ .connect3 {
+    color: #0f69c9;
+     text-align: left;
+     font: 500 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 1295.91px;
+    top: 569px;
+     width: 61.45px;
+    }
+
+ .connect4 {
+    color: #0f69c9;
+     text-align: left;
+     font: 500 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 1295.91px;
+    top: 651px;
+     width: 61.45px;
+    }
+
+ .ellipse-10 {
+    border-radius: 50%;
+     width: 40.18px;
+     height: 34px;
+     position: absolute;
+     left: 1069px;
+    top: 561px;
+    }
+
+ .ellipse-11 {
+    border-radius: 50%;
+     width: 40.18px;
+     height: 34px;
+     position: absolute;
+     left: 1069px;
+    top: 643px;
+    }
+
+ .group-693 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .group-692 {
+    width: 1440px;
+     height: 82px;
+     position: static;
+    }
+
+ .rectangle-80 {
+    background: #244065;
+     border-radius: 0px 0px 3px 3px;
+     width: 1440px;
+     height: 82px;
+     position: absolute;
+     left: -1px;
+    top: 0px;
+    }
+
+ .group-691 {
+    position: absolute;
+     inset: 0;
+    }
+
+ .rectangle-922 {
+    background: var(--white, #ffffff);
+     border-radius: 5px;
+     border-style: solid;
+     border-color: #244065;
+     border-width: 1px;
+     width: 475.97px;
+     height: 44px;
+     position: absolute;
+     left: 464px;
+    top: 23px;
+    }
+
+ .vector {
+    position: absolute;
+     left: 487px;
+    top: 34px;
+     overflow: visible;
+    }
+
+ .search-for-lawyers {
+    color: #b3b3b3;
+     text-align: left;
+     font: 400 12px 'Poppins', sans-serif;
+     position: absolute;
+     left: 533.89px;
+    top: 37px;
+     width: 161.57px;
+    }
+
+ .vector2 {
+    position: absolute;
+     left: 878.84px;
+    top: 38px;
+     overflow: visible;
+    }
+
+ .da-9465538-a-5-c-592733-b-49-ee-24625-e-601-1 {
+    width: 98px;
+     height: 82px;
+     position: absolute;
+     left: 26px;
+    top: 0px;
+    }
+
+ .ellipse-7 {
+    border-radius: 50%;
+     border-style: solid;
+     border-color: #d3e9fc;
+     border-width: 2px;
+     width: 59px;
+     height: 51.73px;
+     position: absolute;
+     left: 1365px;
+    top: 12px;
+    }
+
+
+
+
+  </style>
